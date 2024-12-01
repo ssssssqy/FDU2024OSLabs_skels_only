@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./memory_mapping/kmmap/kmmap.mod := { echo  /home/sqy0819/linux/tools/labs/skels/./memory_mapping/kmmap/kmmap.o;  echo; } > /home/sqy0819/linux/tools/labs/skels/./memory_mapping/kmmap/kmmap.mod

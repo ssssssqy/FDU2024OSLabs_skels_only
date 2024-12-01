@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/modules.order := {   echo /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.ko; :; } | awk '!x[$$0]++' - > /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/modules.order

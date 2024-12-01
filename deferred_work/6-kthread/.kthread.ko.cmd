@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./deferred_work/6-kthread/kthread.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/sqy0819/linux/tools/labs/skels/./deferred_work/6-kthread/kthread.ko /home/sqy0819/linux/tools/labs/skels/./deferred_work/6-kthread/kthread.o /home/sqy0819/linux/tools/labs/skels/./deferred_work/6-kthread/kthread.mod.o;  true

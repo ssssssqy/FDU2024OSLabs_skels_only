@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.mod := { echo  /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.o;  echo; } > /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.mod

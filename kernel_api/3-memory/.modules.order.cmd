@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./kernel_api/3-memory/modules.order := {   echo /home/sqy0819/linux/tools/labs/skels/./kernel_api/3-memory/memory.ko; :; } | awk '!x[$$0]++' - > /home/sqy0819/linux/tools/labs/skels/./kernel_api/3-memory/modules.order

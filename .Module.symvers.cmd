@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/Module.symvers := sed 's/ko$$/o/' /home/sqy0819/linux/tools/labs/skels/modules.order | scripts/mod/modpost   -E  -o /home/sqy0819/linux/tools/labs/skels/Module.symvers -e -i Module.symvers   -T -

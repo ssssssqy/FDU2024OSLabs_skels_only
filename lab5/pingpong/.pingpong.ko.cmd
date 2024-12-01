@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.ko := ld -r -m elf_i386 --build-id=sha1  -T scripts/module.lds -o /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.ko /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.o /home/sqy0819/linux/tools/labs/skels/./lab5/pingpong/pingpong.mod.o;  true

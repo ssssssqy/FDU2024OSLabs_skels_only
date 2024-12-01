@@ -1,0 +1,1 @@
+cmd_/home/sqy0819/linux/tools/labs/skels/./lab4/kernelJIT/kernelJIT.mod := { echo  /home/sqy0819/linux/tools/labs/skels/./lab4/kernelJIT/kernelJIT.o;  echo; } > /home/sqy0819/linux/tools/labs/skels/./lab4/kernelJIT/kernelJIT.mod
